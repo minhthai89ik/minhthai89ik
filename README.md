@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minhthai89ik 25yo
 -     Starting to learn programing since 22YO.
-- 👀 I’m interested in robotic engineering
+- 👀 I’m interested in robotic engineering (C, Python)
 - 🌱 I’m currently learning machine learning, deep learning
 - 💞️ I’m looking to collaborate on robotic project 
 - 📫 How to reach me ins:minhtha89ik
